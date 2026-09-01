@@ -33,5 +33,3 @@ Schedule Trigger
 ## Author
 
 Selvam
-
-B.Tech Artificial Intelligence & Data Science
